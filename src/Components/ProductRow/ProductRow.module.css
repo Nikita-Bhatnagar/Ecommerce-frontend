@@ -1,0 +1,26 @@
+.slider {
+  background-color: #fff;
+  margin: 15px auto;
+  max-width: 1280px;
+  padding: 10px 0 20px 0;
+}
+.title {
+  font-size: 26px;
+  font-weight: 600;
+  padding: 20px 0 0px 35px;
+  margin-bottom: 0;
+}
+.row {
+  padding: 0px 20px 10px;
+  overflow-x: scroll;
+  flex-wrap: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.spinner {
+  min-height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

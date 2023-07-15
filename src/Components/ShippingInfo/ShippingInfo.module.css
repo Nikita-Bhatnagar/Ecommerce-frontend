@@ -1,0 +1,45 @@
+.container {
+  background-color: #fafafa;
+  height: 100%;
+  padding: 20px;
+}
+.btn {
+  color: #ed213b;
+  border: none;
+  text-decoration: underline;
+  font-size: 14px;
+  font-weight: 500;
+  float: right;
+  margin-right: 20px;
+}
+.heading {
+  font-weight: 600;
+  font-size: 15px;
+  color: #333;
+  margin-bottom: 6px;
+}
+.value {
+  font-size: 14px;
+  font-weight: 500;
+  color: #555;
+}
+.button {
+  width: 100%;
+  border-radius: 2px !important;
+  background-color: #ed213b !important;
+  border: none !important;
+  padding: 10px !important;
+  margin-bottom: 20px;
+}
+.field,
+.values {
+  font-size: 15px;
+  font-weight: 500;
+  color: #555;
+}
+.status {
+  font-size: 14px;
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: right;
+}

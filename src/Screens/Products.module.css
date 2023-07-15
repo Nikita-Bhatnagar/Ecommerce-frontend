@@ -1,0 +1,11 @@
+.row {
+  max-width: 1280px;
+  margin: 55px auto;
+  justify-content: center;
+}
+.spinner {
+  min-height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

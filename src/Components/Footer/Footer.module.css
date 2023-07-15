@@ -1,0 +1,46 @@
+.footer {
+  /* position: absolute;
+  bottom: 0; */
+  max-width: 100%;
+  margin: 0 auto;
+  background-color: #000;
+  color: #fff;
+  width: 100vw;
+
+  font-size: 12px;
+  padding: 40px 15px 30px 15px;
+}
+.list {
+  list-style-type: none;
+  padding-left: 0;
+}
+.colHeading {
+  color: #878787;
+  font-weight: 400;
+  font-size: 12px;
+}
+.listItem {
+  padding: 3px 0;
+}
+.address {
+  border-left: 1px solid #878787;
+  padding-left: 30px !important;
+}
+.row {
+  border-bottom: 1px solid #878787b8;
+  padding: 0 50px 30px 50px;
+}
+.rowBottom {
+  font-size: 14px;
+  padding: 25px 70px 0px 70px;
+}
+.img {
+  width: 300px;
+  height: 20px;
+}
+.footerIcons {
+  color: #ed213b;
+  font-size: 24px;
+  padding-right: 6px;
+  margin-top: -4px;
+}

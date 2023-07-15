@@ -1,0 +1,55 @@
+.card {
+  margin-top: 25px !important;
+  border: none !important;
+  display: inline-block;
+  max-width: 210px !important;
+}
+.card:hover {
+  transform: scale(1.1);
+  transition: all ease-in-out 0.3s;
+}
+.imgWrapper {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+}
+.img {
+  max-width: 100% !important;
+  max-height: 100% !important;
+  margin: 0 auto;
+  border-radius: 0px !important;
+}
+
+.title,
+.discount {
+  font-size: 14px !important;
+  /* max-width: 200px; */
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  font-weight: 500;
+  padding-top: 10px;
+  color: #000;
+  margin-bottom: 0;
+
+  padding-right: 15px;
+}
+.discount {
+  font-size: 13px;
+  margin: 0;
+  padding-top: 4px;
+}
+.price {
+  color: #388e3c;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  font-size: 14px;
+  margin-bottom: 0;
+}
+.brand {
+  color: #212121;
+  font-size: 14px;
+  opacity: 0.6;
+  padding-top: 6px;
+}

@@ -1,0 +1,45 @@
+.card {
+  height: 250px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  border-radius: 4px;
+  margin: 15px;
+  width: 100%;
+  position: relative;
+  background-size: cover;
+}
+.overlay {
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 100%;
+  height: 100%;
+  border-radius: 4px;
+}
+/* .card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-image: linear-gradient(to bottom right, #002f4b, #dc4225);
+  opacity: 0.6;
+} */
+.text {
+  color: #fff;
+  padding: 30px 20px 50px 40px;
+  max-width: 300px;
+}
+.btn {
+  margin-left: 40px;
+  border: 1px solid #fff;
+  color: #fff;
+  background-color: transparent;
+  padding: 6px 12px;
+  border-radius: 4px;
+  font-weight: 600;
+  font-size: 15px;
+}
+.btn:hover {
+  background-color: #fff;
+  color: #ed213b;
+}

@@ -1,0 +1,21 @@
+.container {
+  background-color: #fff;
+  padding-top: 10px;
+}
+.row {
+  max-width: 1248px !important;
+  margin: 0 auto !important;
+}
+.item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.img {
+  width: 70px;
+}
+.name {
+  font-size: 15px;
+  font-weight: 500;
+}
